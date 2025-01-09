@@ -1,4 +1,5 @@
-![alt text]([http://url/to/img.png](https://github.com/SLANIMAL/Simplefolio/blob/main/Preview/Capture.PNG))
+![portfolio](https://github.com/user-attachments/assets/3cbf9015-6e5e-4cec-bf15-be396e50d6d9)
+
 # Simplefolio 🌟
 
 Simplefolio is a modern, responsive portfolio website template designed for developers, designers, and freelancers to showcase their skills, projects, and services. Built with cutting-edge web technologies like React, TailwindCSS, and TypeScript, Simplefolio offers a clean and professional design with seamless animations and transitions.
